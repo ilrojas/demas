@@ -1,2 +1,2 @@
 # demas
-Demas project
+Test project
